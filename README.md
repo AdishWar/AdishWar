@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adishwar. I like experimenting with code and computers. I've explored different domains like game development, AR/VR game development, and a bit of web dev. Now I'm onto data science and ML. Currently building a React + Python webapp that records your voice and recongnizes its emotion using ML. ⚡
+I'm Adishwar. I like experimenting with code and computers. I've explored different domains like game development, AR/VR game development, and a bit of web dev. Now I'm onto data science and ML. 
+
+Currently building a React + Python webapp that records your voice and recongnizes its emotion using ML. ⚡
