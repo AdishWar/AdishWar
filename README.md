@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I'm Adishwar.
 
 <!--
 **AdishWar/AdishWar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adishwar. I like experimenting with code and computers. I've explored different domains like game development, AR/VR game development, and a bit of web dev. Now I'm onto data science and ML. 
+I like experimenting with code and computers. I'm a curious and voracious learner and have explored domains like game development in Unity (including some AR/VR), procedural generation and visualisation in processing.js, Data Science and ML with Python, web dev with React, and mobile dev with Flutter.
 
-Currently building a React + Python webapp that records your voice and recongnizes its emotion using ML. ⚡
+One of my best project is a React + Flask webapp that records your voice and recongnizes its emotion using ML, and a Flutter app for airline customers to track and redeem their airline flight rewards.
