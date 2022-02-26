@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I like experimenting with code and computers. I'm a curious and voracious learner and have explored domains like game development in Unity (including some AR/VR), procedural generation and visualisation in processing.js, Data Science and ML with Python, web dev with React, and mobile dev with Flutter.
-
-One of my best project is a React + Flask webapp that records your voice and recongnizes its emotion using ML, and a Flutter app for airline customers to track and redeem their airline flight rewards.
